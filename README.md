@@ -2,7 +2,7 @@
 
 <h3 align='center'>I am Soumyajit Rout, a guy who likes to convert ideas into code.</h3>
 
-### 📰 Blog Posts
+### 📰 Blog Posts <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
 - [Abstractive Text Summarization](https://digitaltesseract.com/abstractive-text-summarization/)
 - [Building Data Apps with Streamlit](https://digitaltesseract.com/2020/06/20/building-a-data-app-with-streamlit/)
 - [Sentence Generation Using RNN](https://digitaltesseract.com/2020/05/26/sentence-generation-using-rnn/)

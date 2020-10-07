@@ -1,7 +1,7 @@
 <h1 align='center'> Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
 
 <h3 align='center'>I am Soumyajit Rout, a guy who likes to convert ideas into code.</h3>
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
+
 ### 📰 Blog Posts
 - [Abstractive Text Summarization](https://digitaltesseract.com/abstractive-text-summarization/)
 - [Building Data Apps with Streamlit](https://digitaltesseract.com/2020/06/20/building-a-data-app-with-streamlit/)

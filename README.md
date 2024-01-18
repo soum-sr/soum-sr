@@ -19,5 +19,3 @@
 - [Medium](https://medium.com/@soum1071)
 - [Instagram](https://instagram.com/yei_ye_boi)
 
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=soum-sr&show_icons=true&hide_border=true" />
